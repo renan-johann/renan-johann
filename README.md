@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Software Engineer In Test | QA | QE
+- 🔭 I work at Software Engineer In Test | QA | QE
 - 🌱 I’m currently learning TypeScript with Nest.js
 
 <div align="center">
