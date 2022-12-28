@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I work with Software Engineer In Test | QA | QE
-- 🌱 I’m currently learning TypeScript with Nest.js
+- 🧑‍💻 I work with Software Engineer In Test | QA | QE
+- 📚 I’m currently learning TypeScript with Nest.js
 
 <div align="center">
   <a href="https://github.com/renan-johann">
