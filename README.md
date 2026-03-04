@@ -40,18 +40,31 @@
 
 ## GitHub stats
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renan-johann&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true"
-       alt="GitHub Stats" />
-  <img height="165"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renan-johann&layout=compact&theme=github_dark&langs_count=8&hide_border=true"
-       alt="Top Languages" />
+  <img
+    src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/stats/profile-details.svg"
+    alt="Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/stats/repos-per-language.svg"
+    alt="Repos per Language"
+    height="170"
+  />
+  <img
+    src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/stats/stats.svg"
+    alt="GitHub Stats Card"
+    height="170"
+  />
 </p>
 
 ---
 
 ## Contributions
 <p align="center">
-  <img alt="Snake animation"
-       src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/github-contribution-grid-snake.gif" />
+  <img
+    alt="Snake animation"
+    src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/github-contribution-grid-snake.gif?v=2"
+  />
 </p>
