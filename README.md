@@ -82,20 +82,20 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/stats/profile-details.svg"
+    src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/profile-summary-card-output/github_dark/0-profile-details.svg"
     alt="Profile Details"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/stats/repos-per-language.svg"
+    src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/profile-summary-card-output/github_dark/1-repos-per-language.svg"
     alt="Repos per Language"
     height="170"
   />
 
   <img
-    src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/stats/stats.svg"
+    src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/profile-summary-card-output/github_dark/3-stats.svg"
     alt="GitHub Stats"
     height="170"
   />
@@ -108,7 +108,7 @@
 <p align="center">
   <img
     alt="Snake animation"
-    src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/snake/github-contribution-grid-snake.gif"
+    src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/github-contribution-grid-snake.gif"
   />
 </p>
 
