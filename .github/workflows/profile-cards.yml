@@ -23,4 +23,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: renan-johann
-          BRANCH_NAME: output
+          AUTO_PUSH: false
+
+      - name: Prepare output
+        run: |
+          mkdir -p dist/profile-summary-card-output
+          cp -r ../profile-summary-card-output/* dist/profile-summary-card-output/
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
