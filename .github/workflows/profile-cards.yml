@@ -28,7 +28,7 @@ jobs:
       - name: Prepare output
         run: |
           mkdir -p dist/profile-summary-card-output
-          cp -r ../profile-summary-card-output/* dist/profile-summary-card-output/
+          cp -r profile-summary-card-output/* dist/profile-summary-card-output/
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
