@@ -23,6 +23,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: renan-johann
-          THEME: github_dark
-          BRANCH: output
-          OUTPUT_DIR: stats
+          BRANCH_NAME: output
