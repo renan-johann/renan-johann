@@ -22,8 +22,9 @@ jobs:
         with:
           github_user_name: renan-johann
           outputs: |
-            dist/snake/github-contribution-grid-snake.svg
-            dist/snake/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
