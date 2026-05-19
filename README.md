@@ -80,19 +80,24 @@
 
 ## GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/profile-summary-card-output/github_dark/1-repos-per-language.svg"
-    alt="Repos per Language"
-    height="220"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/profile-summary-card-output/github_dark/3-stats.svg"
-    alt="GitHub Stats"
-    height="220"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/profile-summary-card-output/github_dark/1-repos-per-language.svg"
+        alt="Repos per Language"
+        height="220"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/renan-johann/renan-johann/output/profile-summary-card-output/github_dark/3-stats.svg"
+        alt="GitHub Stats"
+        height="220"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
