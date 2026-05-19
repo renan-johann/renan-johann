@@ -37,25 +37,41 @@
 
 <p align="center">
 
-  <img alt="TypeScript" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img
+    alt="Playwright"
+    height="42"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg"
+  />
 
-  <img alt="JavaScript" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img
+    alt="CSharp"
+    height="42"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+  />
 
-  <img alt="Java" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img
+    alt="TypeScript"
+    height="42"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+  />
 
-  <img alt="CSharp" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img
+    alt="K6"
+    height="42"
+    src="https://grafana.com/static/assets/img/k6.png"
+  />
 
-  <img alt="Go" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img
+    alt="Azure DevOps"
+    height="42"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg"
+  />
 
-  <img alt="Playwright" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" />
-
-  <img alt="Cypress" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" />
-
-  <img alt="Docker" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-  <img alt="Jenkins" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-
-  <img alt="GitHub Actions" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img
+    alt="Docker"
+    height="42"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+  />
 
 </p>
 
