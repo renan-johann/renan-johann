@@ -41,30 +41,35 @@
     height="42"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg"
   />
+  &nbsp;&nbsp;&nbsp;
 
   <img
     alt="CSharp"
     height="42"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
   />
+  &nbsp;&nbsp;&nbsp;
 
   <img
     alt="TypeScript"
     height="42"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
   />
+  &nbsp;&nbsp;&nbsp;
 
   <img
     alt="k6"
     height="42"
     src="https://raw.githubusercontent.com/grafana/k6/master/assets/logo.svg"
   />
+  &nbsp;&nbsp;&nbsp;
 
   <img
     alt="Azure DevOps"
     height="42"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg"
   />
+  &nbsp;&nbsp;&nbsp;
 
   <img
     alt="Docker"
