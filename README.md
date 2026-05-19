@@ -35,48 +35,28 @@
 
 ## Tech Stack
 
-<p align="center">
-  <img
-    alt="Playwright"
-    height="42"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg"
-  />
-  &nbsp;&nbsp;&nbsp;
-
-  <img
-    alt="CSharp"
-    height="42"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-  />
-  &nbsp;&nbsp;&nbsp;
-
-  <img
-    alt="TypeScript"
-    height="42"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-  />
-  &nbsp;&nbsp;&nbsp;
-
-  <img
-    alt="k6"
-    height="42"
-    src="https://raw.githubusercontent.com/grafana/k6/master/assets/logo.svg"
-  />
-  &nbsp;&nbsp;&nbsp;
-
-  <img
-    alt="Azure DevOps"
-    height="42"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg"
-  />
-  &nbsp;&nbsp;&nbsp;
-
-  <img
-    alt="Docker"
-    height="42"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="42" height="42" alt="Playwright" />
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42" alt="CSharp" />
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/grafana/k6/master/assets/logo.svg" width="42" height="42" alt="k6" />
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="42" height="42" alt="Azure DevOps" />
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
+    </td>
+  </tr>
+</table>
 
 ---
 
