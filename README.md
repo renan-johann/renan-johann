@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  Building scalable quality pipelines, reliable automation, and fast feedback systems.
-</p>
-
-<p align="center">
   <a href="mailto:renans.poa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -60,23 +56,6 @@
 
 ---
 
-## Engineering Focus
-
-```txt
-✔ Test Automation Architecture
-✔ E2E Testing
-✔ API Testing
-✔ Mobile Testing
-✔ CI/CD Pipelines
-✔ Contract Testing
-✔ Flaky Test Reduction
-✔ Reporting & Observability
-✔ Shift-left Quality
-✔ Developer Experience
-```
-
----
-
 ## GitHub Analytics
 
 <table align="center">
@@ -120,6 +99,23 @@
 </p>
 
 ---
+
+## Engineering Focus
+
+```txt
+✔ Test Automation Architecture
+✔ E2E Testing
+✔ API Testing
+✔ Mobile Testing
+✔ CI/CD Pipelines
+✔ Contract Testing
+✔ Flaky Test Reduction
+✔ Reporting & Observability
+✔ Shift-left Quality
+✔ Developer Experience
+```
+
+----
 
 <p align="center">
   <i>
