@@ -36,7 +36,6 @@
 ## Tech Stack
 
 <p align="center">
-
   <img
     alt="Playwright"
     height="42"
@@ -56,9 +55,9 @@
   />
 
   <img
-    alt="K6"
+    alt="k6"
     height="42"
-    src="https://grafana.com/static/assets/img/k6.png"
+    src="https://raw.githubusercontent.com/grafana/k6/master/assets/logo.svg"
   />
 
   <img
@@ -72,7 +71,6 @@
     height="42"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
   />
-
 </p>
 
 ---
